@@ -1,0 +1,22 @@
+#container {
+  width: 1000px;
+  height: auto;
+  margin: 0 auto;
+  background-color: cornsilk;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline-block;
+  padding: 15px 10px 15px 10px;
+  background-color: aqua;
+  border-radius: 15px;
+  margin: 5px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
